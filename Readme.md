@@ -18,7 +18,9 @@ This is the game itself.
 2. On the left you can see 3 different status relationships (bourgeoisie, military and commoners).
 3. On the right you can see 2 possible decisions, in this case "Yes" or "No". As the mouse is hovering "Yes", you can see which relationships will be affected by making this decison (the dot on the right of the status rectangle).
 
-```<br><br>
+```
+
+<br><br>
 
 <img width="1086" alt="game mouse hover" src="https://user-images.githubusercontent.com/70068324/201488413-a23da6e5-79cf-482c-b8fa-2a0dd4bb95c8.png">
 
